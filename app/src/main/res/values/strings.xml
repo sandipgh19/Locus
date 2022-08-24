@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Locus Assignment</string>
+    <string name="provide_comment">Provide Comment?</string>
+    <string name="type_comment">Type Comment</string>
+    <string name="submit">Submit</string>
+</resources>
